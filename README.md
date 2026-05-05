@@ -4,10 +4,12 @@
 
 ---
 
-## 🎓 Certificate
+## 📜 Python Certificates
 
-[![Certificate](https://img.shields.io/badge/Certificate-View%20Here-blue?style=for-the-badge&logo=academia)](https://your-certificate-link-here.com)
-
+| Certificate | Link |
+|-------------|------|
+| Python Essential 1 | [View PDF](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/python%20essential%201.pdf) |
+| Python Essential 2 | [View PDF](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/python%20essential%202.pdf) |
 ---
 
 ## 🎥 Video Demonstration
