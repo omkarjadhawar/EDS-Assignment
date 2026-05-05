@@ -1,4 +1,4 @@
-# 🐍 Python Practicals Repository
+# 🐍 EDS Assignment — Python Practicals
 
 > A collection of Python programming practicals covering core concepts, data structures, statistics, and data visualization.
 
@@ -19,9 +19,9 @@
 ## 📁 Repository Structure
 
 ```
-📦 Python Practicals
+📦 EDS-Assignment
  ┣ 📂 Practicle 1       → Basic Python Programs
- ┣ 📂 Practicle 2       → (Programs)
+ ┣ 📂 Practicle 2       → Programs
  ┣ 📂 Practicle 3       → Matrix & Statistical Operations
  ┣ 📂 Practicle 4       → Data Visualization (Charts)
  ┗ 📂 Practicle 5       → Graphs & Datasets
@@ -31,57 +31,57 @@
 
 ## 📚 Practicals
 
-### 📂 Practicle 1 — Basic Python Programs
+### 📂 [Practicle 1](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%201) — Basic Python Programs
 
 | File | Description | Link |
 |------|-------------|------|
-| `digit.py` | Digit-related operations | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/digit%20(1).py) |
-| `fibonacci.py` | Fibonacci series | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/fibonacci%20(1).py) |
-| `momentum.py` | Momentum calculation | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/momentum%20(1).py) |
-| `pattern.py` | Pattern printing | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/pattern%20(1).py) |
-| `result.py` | Result computation | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/result%20(1).py) |
-| `reversenumber.py` | Reverse a number | [View](https://github.com/your-username/your-repo/blob/main/Practicle%201/reversenumber%20(1).py) |
+| `digit (1) (1).py` | Digit operations (square, square root, cube root) | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/digit%20(1)%20(1).py) |
+| `fibonacci (1) (1).py` | Fibonacci series | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/fibonacci%20(1)%20(1).py) |
+| `momentum (1) (1).py` | Momentum calculation | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/momentum%20(1)%20(1).py) |
+| `pattern (1) (1).py` | Pattern printing | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/pattern%20(1)%20(1).py) |
+| `result (1) (1).py` | Result computation | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/result%20(1)%20(1).py) |
+| `reversenumber (1) (1).py` | Reverse a number | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%201/reversenumber%20(1)%20(1).py) |
 
 ---
 
-### 📂 Practicle 2
+### 📂 [Practicle 2](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%202)
 
-| File | Description | Link |
-|------|-------------|------|
-| *(files not visible in screenshot)* | — | [View Folder](https://github.com/your-username/your-repo/tree/main/Practicle%202) |
-
----
-
-### 📂 Practicle 3 — Matrix & Statistical Operations
-
-| File | Description | Link |
-|------|-------------|------|
-| `admatrix.py` | Matrix addition | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/admatrix%20(1).py) |
-| `basic.py` | Basic operations | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/basic%20(1).py) |
-| `correlation.py` | Correlation computation | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/correlation%20(1).py) |
-| `matrix.py` | Matrix operations | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/matrix%20(1).py) |
-| `statistical.py` | Statistical analysis | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/statistical%20(1).py) |
-| `statistical - Copy.py` | Statistical analysis (copy) | [View](https://github.com/your-username/your-repo/blob/main/Practicle%203/statistical%20(1)%20-%20Copy.py) |
+| Link |
+|------|
+| [View Folder](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%202) |
 
 ---
 
-### 📂 Practicle 4 — Data Visualization (Charts)
+### 📂 [Practicle 3](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%203) — Matrix & Statistical Operations
 
 | File | Description | Link |
 |------|-------------|------|
-| `barchart.py` | Bar chart using matplotlib | [View](https://github.com/your-username/your-repo/blob/main/Practicle%204/barchart%20(1).py) |
-| `linechart.py` | Line chart using matplotlib | [View](https://github.com/your-username/your-repo/blob/main/Practicle%204/linechart%20(1).py) |
-| `piechart.py` | Pie chart using matplotlib | [View](https://github.com/your-username/your-repo/blob/main/Practicle%204/piechart%20(1).py) |
+| `admatrix (1).py` | Matrix addition | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/admatrix%20(1).py) |
+| `basic (1).py` | Basic operations | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/basic%20(1).py) |
+| `correlation (1).py` | Correlation computation | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/correlation%20(1).py) |
+| `matrix (1).py` | Matrix operations | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/matrix%20(1).py) |
+| `statistical (1) - Copy.py` | Statistical analysis (copy) | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/statistical%20(1)%20-%20Copy.py) |
+| `statistical (1).py` | Statistical analysis | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%203/statistical%20(1).py) |
 
 ---
 
-### 📂 Practicle 5 — Graphs & Datasets
+### 📂 [Practicle 4](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%204) — Data Visualization (Charts)
 
 | File | Description | Link |
 |------|-------------|------|
-| `basicgraph.py` | Basic graph plotting | [View](https://github.com/your-username/your-repo/blob/main/Practicle%205/basicgraph%20(1).py) |
-| `dataset.py` | Dataset handling | [View](https://github.com/your-username/your-repo/blob/main/Practicle%205/dataset%20(1).py) |
-| `grains.py` | Grains dataset analysis | [View](https://github.com/your-username/your-repo/blob/main/Practicle%205/grains%20(1).py) |
+| `barchart (1).py` | Bar chart using matplotlib | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%204/barchart%20(1).py) |
+| `linechart (1).py` | Line chart using matplotlib | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%204/linechart%20(1).py) |
+| `piechart (1).py` | Pie chart using matplotlib | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%204/piechart%20(1).py) |
+
+---
+
+### 📂 [Practicle 5](https://github.com/omkarjadhawar/EDS-Assignment/tree/main/Practicle%205) — Graphs & Datasets
+
+| File | Description | Link |
+|------|-------------|------|
+| `basicgraph (1).py` | Basic graph plotting | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%205/basicgraph%20(1).py) |
+| `dataset (1).py` | Dataset handling | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%205/dataset%20(1).py) |
+| `grains (1).py` | Grains dataset analysis | [View](https://github.com/omkarjadhawar/EDS-Assignment/blob/main/Practicle%205/grains%20(1).py) |
 
 ---
 
@@ -97,21 +97,21 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/omkarjadhawar/EDS-Assignment.git
 
 # Navigate into any practical folder
 cd "Practicle 1"
 
 # Run any Python file
-python digit\ \(1\).py
+python "digit (1) (1).py"
 ```
 
 ---
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+**Omkar Jadhawar**
+- GitHub: [@omkarjadhawar](https://github.com/omkarjadhawar)
 
 ---
 
